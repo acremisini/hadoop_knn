@@ -41,3 +41,16 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/KnnPattern$DoubleString.class
+/KnnPattern$KnnMapper.class
+/KnnPattern$KnnReducer.class
+/KnnPattern.class
+/KnnPattern$DistClassTuple.class
+/KnnPattern$DistNumTuple.class
+/KnnPattern$DoubleTuple.class
+/KnnPattern$Tuple.class
+/KnnPattern$Writer.class
+/DoubleTuple.class
+/KnnMapper.class
+/KnnReducer.class
+/Writer.class
