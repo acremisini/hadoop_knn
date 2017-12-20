@@ -1,0 +1,72 @@
+train points = 1000
+k classifier error fraction CPU time (msec)
+1           10.16            4616
+3           12.01            2321
+5           12.11            2255
+7           13.65            2277
+9           15.05            2244
+11           15.55            2242
+13           16.34            2243
+15           16.94            2228
+17           16.64            2241
+19           17.19            2244
+21           17.79            3247
+23           17.94            2236
+25           18.29            2234
+
+CPU time of the MapReduce kNN algorithm = 32628.0 miliseconds.
+
+train points = 3000
+k classifier error fraction CPU time (msec)
+1            6.78            4227
+3            7.13            4243
+5            8.27            4228
+7            8.12            5248
+9            8.92            4240
+11            9.52            5229
+13            9.62            5228
+15            9.87            5260
+17           10.61            5234
+19           10.76            5228
+21           11.41            5247
+23           11.61            5231
+25           11.91            5229
+
+CPU time of the MapReduce kNN algorithm = 64072.0 miliseconds.
+
+train points = 5000
+k classifier error fraction CPU time (msec)
+1            5.93            6227
+3            6.53            6226
+5            6.63            6231
+7            6.83            7233
+9            7.37            7237
+11            7.77            7242
+13            8.52            8234
+15            8.57            8244
+17            8.67            8243
+19            9.27            8230
+21            9.52            7252
+23            9.37            8239
+25            9.52            8234
+
+CPU time of the MapReduce kNN algorithm = 97072.0 miliseconds.
+
+train points = 7291
+k classifier error fraction CPU time (msec)
+1            5.63            8236
+3            5.53            9242
+5            5.53            8273
+7            5.83            9240
+9            6.28            9245
+11            6.88           10224
+13            7.03            9242
+15            6.98           10247
+17            7.42           10255
+19            7.72           11248
+21            8.07           11245
+23            8.07           11247
+25            8.17           12252
+
+CPU time of the MapReduce kNN algorithm = 130196.0 miliseconds.
+
